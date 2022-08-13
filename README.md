@@ -31,8 +31,6 @@ All of the following programs are written in C:
 | `2-O` | File that stores the best, average and worst case of the time complexity of the **Selection sort** algorithm |
 | `3-quick_sort.c` | Function that sorts an array of integers in ascending order using the **Quick sort** algorithm |
 | `3-O` | File that stores the best, average and worst case of the time complexity of the **Quick sort** algorithm |
-| `100-shell_sort.c` | Function that sorts an array of integers in ascending order using the **Shell sort** algorithm |
-| `100-O` | File that stores the best, average and worst case of the time complexity of the **Shell sort** algorithm |
 | `101-cocktail_sort_list.c` | Function that sorts an array of integers in ascending order using the **Cocktail shaker sort** algorithm |
 | `101-O` | File that stores the best, average and worst case of the time complexity of the **Cocktail shaker sort** algorithm |
 | `102-counting_sort.c` | Function that sorts an array of integers in ascending order using the **Counting sort** algorithm |
@@ -45,7 +43,5 @@ All of the following programs are written in C:
 | `105-O` | File that stores the best, average and worst case of the time complexity of the **Radix sort** algorithm |
 | `106-bitonic_sort.c` | Function that sorts an array of integers in ascending order using the **Bitonic sort** algorithm |
 | `106-O` | File that stores the best, average and worst case of the time complexity of the **Bitonic sort** algorithm |
-
-# Contributors
-[Prideland Okoi](www.twitter.com/pridemyhero)
-[Solomon Omisami]()
+| `107-quick_sort_hoare.c` | File that sorts an array of integers in ascending order using the **Quick sort** algorithm |
+| `107-O` | File that stores the best, average and worst case of the time complexity of the **Quick sort** algorithm |
