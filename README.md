@@ -14,7 +14,7 @@ Read or watch:
 
 
 ## Technologies
-* C files are compiled using `gcc 4.8.4`
+* C files are compiled using `gcc 9.8.4`
 * Tested on Ubuntu 20.04 LTS
 * Scripts written in Bash 4.4.23(2)
 
